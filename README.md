@@ -1,2 +1,2 @@
 # CppMapReduce
-An example of map reduce system implemented in c++, based on the instructions of MIT course 6.824.
+An example of map reduce system implemented in go, based on the instructions of a famous system implementation course in MIT.
